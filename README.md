@@ -56,3 +56,4 @@ freeswap - Number of disk blocks available for page swapping.
 ------------------------
 usr - Portion of time (%) that cpus run in user mode
 
+1.1 Read the data and do exploratory data analysis. Describe the data briefly. (Check the Data types, shape, EDA, 5 point summary). Perform Univariate, Bivariate Analysis, Multivariate Analysis.
