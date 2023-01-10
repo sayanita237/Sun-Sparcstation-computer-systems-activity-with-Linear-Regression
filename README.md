@@ -61,3 +61,6 @@ usr - Portion of time (%) that cpus run in user mode
 1.2 Impute null values if present, also check for the values which are equal to zero. Do they have any meaning or do we need to change them or drop them? Check for the possibility of creating new features if required. Also check for outliers and duplicates if there.
 
 1.3 Encode the data (having string values) for Modelling. Split the data into train and test (70:30). Apply Linear regression using scikit learn. Perform checks for significant variables using appropriate method from statsmodel. Create multiple models and check the performance of Predictions on Train and Test sets using Rsquare, RMSE & Adj Rsquare. Compare these models and select the best one with appropriate reasoning
+
+1.4 Inference: Basis on these predictions, what are the business insights and recommendations.
+Please explain and summarise the various steps performed in this project. There should be proper business interpretation and actionable insights present.
